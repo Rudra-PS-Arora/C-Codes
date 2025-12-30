@@ -1,0 +1,24 @@
+// Write a progeam to check whether a student failed or pass.
+// marks > 30 = pass 
+// marks <=30 = fail 
+
+#include <stdio.h>
+int main () {
+    int m;
+    printf("Enter marks:  ");
+    scanf("%d",&m);
+    // m > 30 ? printf("Pass") : printf ("Fail");
+    if (m >= 0 && m<=30){
+        printf("Fail");
+    } 
+    else if ( m > 30 && m <100) {
+        printf("Pass");
+    }
+    else{
+        printf("Wrong ans");
+    }
+
+
+
+}
+
