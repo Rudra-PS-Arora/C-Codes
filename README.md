@@ -11,6 +11,12 @@ This repository is organized into **Chapters**, and each chapter contains:
 1. **Concepts** 🧠 – Learn the theory behind C programming.  
 2. **Syntax & Logic** 💻 – Practice writing code with proper syntax and logical flow.  
 3. **Projects & Questions** 📝 – Test your skills with small projects and exercises.
+4. **Folder1**: is Intro
+5. **Folder2**: Variables, input and output
+6. **Folder3**: Instructions
+7. **Folder4**: Conditions
+8. **Folder5**: Loops
+9. **Folder6**: Recursions
 
 ---
 
