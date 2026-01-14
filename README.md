@@ -17,7 +17,8 @@ This repository is organized into **Chapters**, and each chapter contains:
 7. **Folder4**: Conditions
 8. **Folder5**: Loops
 9. **Folder6**: Recursions
-10. **Folder6**: Pointers
+10. **Folder7**: Pointers
+11. **Folder8**: Array
 
 ---
 
