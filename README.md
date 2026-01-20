@@ -20,6 +20,8 @@ This repository is organized into **Chapters**, and each chapter contains:
 10. **Folder7**: Pointers
 11. **Folder8**: Array
 12. **Folder9**: Strings
+13. **Folder9**: Structures
+    
 
 ---
 
