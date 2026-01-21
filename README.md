@@ -20,8 +20,9 @@ This repository is organized into **Chapters**, and each chapter contains:
 10. **Folder7**: Pointers
 11. **Folder8**: Array
 12. **Folder9**: Strings
-13. **Folder9**: Structures
-14. **Folder10**:File input and output
+13. **Folder10**: Structures
+14. **Folder11**:File input and output
+15. **Folder12**,**THE END**:Dynamic Memory Allocation
 ---
 
 ## 📖 How to Read
