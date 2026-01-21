@@ -1,0 +1,7 @@
+Name	Marks	Course	Age
+--------------------------------
+rudra	34	cs	12
+aman	45	cs	13
+sam	    49	cs	14
+dean	37	cs	13
+sammy	38	cs	21
